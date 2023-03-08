@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835268026511",
+    "firebase_url": "https://college-planner-b0aea-default-rtdb.firebaseio.com",
+    "project_id": "college-planner-b0aea",
+    "storage_bucket": "college-planner-b0aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835268026511:android:7b1d8fcaf73703115390fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_coding_minds_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835268026511-g2t58i27vn0uiabnhpac4ajm3v9p5q9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sH1VP2roMRbgCy9N896znvu_D96QWSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835268026511-g2t58i27vn0uiabnhpac4ajm3v9p5q9k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835268026511-bosd50s1hbu9s6o4akmnr9a8ad0enr6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterCodingMindsApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
